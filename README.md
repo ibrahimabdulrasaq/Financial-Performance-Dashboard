@@ -654,7 +654,7 @@ Financial-Performance-Dashboard/
 │   ├── performance_overview.png
 │   └── executive_summary.png
 │
-└── documentation/
+└── readme_documentation/
     └── project_documentation.pdf
 ```
 
