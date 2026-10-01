@@ -8,6 +8,8 @@ The dashboard transforms a 1,000-row financial dataset into an interactive repor
 
 The project combines **data cleaning, data transformation, data modeling, DAX, time intelligence, dynamic metric selection, visualization, UI/UX design, and dashboard development**.
 
+Interact with the Live Report [Here](https://app.powerbi.com/view?r=eyJrIjoiNzVkOGJkNDItYTkxOS00NGFlLWFkOWMtNTM4ZWExODJjYjJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=d63e10768cf60ad26bfe)
+
 ---
 
 ## Project Objectives
@@ -664,7 +666,7 @@ Financial-Performance-Dashboard/
 
 # Dashboard Preview
 
-Add screenshots of the completed Power BI dashboard to this section.
+<img width="1920" height="1080" alt="Financial Performance Dashboard_ Canva" src="https://github.com/user-attachments/assets/b3212539-60da-454b-8e12-dbf1b8e6af2d" />
 
 ### Performance Overview
 
