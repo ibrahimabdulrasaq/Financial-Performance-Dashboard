@@ -682,12 +682,13 @@ The project includes two Figma wireframes created during the planning stage.
 
 ### Wireframe 01
 
-<img width="1920" height="1080" alt="Financial Performance Dashboard (1)" src="https://github.com/user-attachments/assets/751ea00b-e85c-4335-9ad1-73cf491e1ba2" />
+
+<img width="1920" height="1080" alt="Financial Performance Dashboard" src="https://github.com/user-attachments/assets/0ca4999e-2cd3-404f-9ffe-7752cd45e62f" />
 
 
 ### Wireframe 02
 
-<img width="1920" height="1080" alt="Financial Performance Dashboard" src="https://github.com/user-attachments/assets/0ca4999e-2cd3-404f-9ffe-7752cd45e62f" />
+<img width="1920" height="1080" alt="Financial Performance Dashboard (1)" src="https://github.com/user-attachments/assets/751ea00b-e85c-4335-9ad1-73cf491e1ba2" />
 
 ---
 
