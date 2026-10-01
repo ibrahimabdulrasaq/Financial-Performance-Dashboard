@@ -118,7 +118,7 @@ The Star Schema structure improves organization and supports efficient filtering
 
 ---
 
-# Products_Dim Table
+# Department_Dim Table
 
 An additional **Department_Dim** table was created as part of the data modeling process.
 
@@ -508,7 +508,7 @@ Conditional formatting was applied to improve the interpretation of the detailed
 
 ---
 
-# 📌 Dashboard KPI Results
+# Dashboard KPI Results
 
 The completed dashboard produced the following overall KPI values:
 
@@ -523,7 +523,7 @@ These values provide a high-level summary of the financial dataset represented i
 
 ---
 
-# 🔍 Key Findings
+# Key Findings
 
 The dashboard analysis provides several observations about the financial data.
 
@@ -559,7 +559,7 @@ These records require further investigation to understand the underlying causes.
 
 ---
 
-# 💡 Business Insights
+# Business Insights
 
 The dashboard provides several areas that management can investigate:
 
@@ -576,7 +576,7 @@ The dashboard therefore supports both high-level monitoring and detailed financi
 
 ---
 
-# 🚀 Recommendations
+# Recommendations
 
 Based on the analysis provided by the dashboard, the following actions can be considered:
 
@@ -608,7 +608,7 @@ The interactive slicers and Field Parameters allow users to explore different fi
 
 ---
 
-# 🎓 Learning Outcomes
+# Learning Outcomes
 
 This project provided practical experience in:
 
@@ -662,7 +662,7 @@ Financial-Performance-Dashboard/
 
 ---
 
-# 🖼️ Dashboard Preview
+# Dashboard Preview
 
 Add screenshots of the completed Power BI dashboard to this section.
 
@@ -676,7 +676,7 @@ Add screenshots of the completed Power BI dashboard to this section.
 
 ---
 
-# 🖼️ Wireframe Preview
+# Wireframe Preview
 
 The project includes two Figma wireframes created during the planning stage.
 
@@ -691,7 +691,7 @@ The project includes two Figma wireframes created during the planning stage.
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 The project followed the following workflow:
 
@@ -772,7 +772,7 @@ The dashboard was designed to answer the following analytical questions:
 
 ---
 
-# 📊 Executive Summary
+# Executive Summary
 
 The **Financial Performance Dashboard** provides an interactive view of the organization's financial performance using Revenue, Expenses, Profit, and Profit Margin.
 
@@ -861,7 +861,7 @@ The final result is an interactive Power BI financial reporting solution designe
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Ibrahim Abdulrasaq**
 
@@ -869,7 +869,7 @@ Data Analyst | Business Intelligence Analyst
 
 ---
 
-# 🏁 Conclusion
+# Conclusion
 
 The Financial Performance Dashboard demonstrates how Power BI can be used to transform financial data into an interactive Business Intelligence solution.
 
